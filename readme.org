@@ -7,4 +7,8 @@
     git submodule init
     git submodule update
   #+end_src
+  Более простой способ клонирования:
+  #+begin_src sh
+    git clone --recurse-submodules https://github.com/gavk/testTasks.git
+  #+end_src
   Тестовые задания находятся на этом же аккаунте.
