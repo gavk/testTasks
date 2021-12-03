@@ -1,0 +1,10 @@
+* Описание
+  Это репозиторий с некоторыми из тестовых заданий, которые мне приходилось решать.
+  Работа с репозиторием:
+  #+begin_src sh
+    git clone https://github.com/gavk/testTasks.git
+    cd testTasks
+    git submodule init
+    git submodule update
+  #+end_src
+  Тестовые задания находятся на этом же аккаунте.
