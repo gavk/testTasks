@@ -1,0 +1,3 @@
+[submodule "ecwid"]
+	path = ecwid
+	url = https://github.com/gavk/ecwid.git
