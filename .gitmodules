@@ -4,3 +4,15 @@
 [submodule "mindbox"]
 	path = mindbox
 	url = https://github.com/gavk/mindbox.git
+[submodule "ITERIAL_interview-java"]
+	path = ITERIAL_interview-java
+	url = https://github.com/gavk/ITERIAL_interview-java.git
+[submodule "targsoft"]
+	path = targsoft
+	url = https://github.com/gavk/targsoft.git
+[submodule "tests-for-qa"]
+	path = tests-for-qa
+	url = https://github.com/gavk/tests-for-qa.git
+[submodule "mergesort"]
+	path = mergesort
+	url = https://github.com/gavk/mergesort.git
