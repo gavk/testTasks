@@ -1,3 +1,6 @@
 [submodule "ecwid"]
 	path = ecwid
 	url = https://github.com/gavk/ecwid.git
+[submodule "mindbox"]
+	path = mindbox
+	url = https://github.com/gavk/mindbox.git
